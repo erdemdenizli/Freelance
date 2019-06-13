@@ -5,7 +5,7 @@ public class Test {
 
 	public static void main(String[] args) {
 
-		String str = "AAAABCCCD";
+		String str = "AAABBCCDA";
 		
 		ArrayList <String> list= new ArrayList<>(Arrays.asList(str.split("")));
 		ArrayList <Integer> list2= new ArrayList<>();
