@@ -1,5 +1,5 @@
 
-public class StairsRevers {
+public class StairsRevers extends Object{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
